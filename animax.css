@@ -1,0 +1,282 @@
+@media screen and (min-width:600px) and (max-width: 1500px){
+body{
+    background-color:#161c28f6;
+    margin: 0px;
+    
+}
+
+title  {
+    width: 1000px;
+}
+meta {
+    width: 1000px;
+}
+#menu{
+    background-color:#161C28;
+    position:fixed;
+    height: 100%;
+    width: 50px;
+}
+.menu1{
+    padding-top: 30px;
+padding-left: 0px;
+padding-bottom: 0px;
+padding-right: 0px;
+}
+.logo{
+    width: 50;
+    height: 50;
+    padding-right: 100px;
+}
+.menulogo{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+}
+.menulogo:hover{
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 30px;
+    height: 30px;
+    position: fixed;  
+}
+.header{
+    z-index: 2;
+    width: 100%;
+    position: fixed;
+    height: 50px;
+    background-color:#12161F;
+}
+.video{
+    border-radius: 20px;
+   width: 230px;
+   height: 130px; 
+}
+.video1{
+    width: 1470px;
+    height: 130px;
+}
+.type{
+    color:#D7D8DA;
+    padding-top:40px ;
+}
+.menu1 li{
+    padding-bottom: 50px;
+}
+.video:hover{
+    border-radius: 20px;
+    width: 300px;
+}
+h4{width: 200px;
+    color:#D7D8DA;
+}
+h3{
+    color:#D7D8DA;
+}
+footer{
+    padding-top: 150px;
+    padding-left: 400px;
+    height: 100px;
+}
+h4:hover{
+    color: red;
+}
+.menu ul{
+    padding-top: 50px;
+}
+.pro {
+    float: right;
+}
+.profile{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    float: left;
+    margin: 5px;
+}
+.proName {
+    padding-right: 20px;
+    float: left;
+}
+.size{
+    padding-left: 75px;
+}
+.input{
+    position: fixed;
+    height: 50px;
+    width: 350px;
+    background-color: #161c28be;
+    border: 0px;
+    color: rgb(255, 255, 255);
+}
+.pr{
+    float: left;
+    
+}
+.form1{
+    float: right;
+    padding: 10px;
+}
+.copy{
+    padding-left: 200px;
+    color: #D7D8DA;
+}
+.copy:hover{
+    color: red;
+}
+h6{width: 2000px;
+    color: #161c28f6;
+    background-color:#161c28f6; 
+}
+h1 {
+    color: #161c28f6;
+    background-color:#161c28f6;
+}
+.form2{
+    text-align: center;
+}
+h2{
+width: 1000px;
+}
+}
+@media screen and (min-width:0px) and (max-width: 600px){
+    body{
+        background-color:#161c28f6;
+        margin: 0px;
+        
+    }
+    
+    title  {
+        width: 1000px;
+    }
+    meta {
+        width: 1000px;
+    }
+    #menu{
+        background-color:#161C28;
+        position:fixed;
+        height: 100%;
+        width: 50px;
+    }
+    .menu1{
+        padding-top: 30px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    }
+    .logo{
+        width: 50;
+        height: 50;
+        padding-right: 100px;
+    }
+    .menulogo{
+        width: 50px;
+        height: 50px;
+        position: fixed;
+    }
+    .menulogo:hover{
+        padding-top: 10px;
+        padding-left: 10px;
+        width: 30px;
+        height: 30px;
+        position: fixed;  
+    }
+    .header{
+        z-index: 2;
+        width: 100%;
+        position: fixed;
+        height: 50px;
+        background-color:#12161F;
+    }
+    .video{
+        border-radius: 20px;
+       width: 230px;
+       height: 130px; 
+    }
+    .video1{
+        width: 600px;
+        height: 400px;
+    }
+    .type{
+        color:#D7D8DA;
+        padding-top:40px ;
+    }
+    .menu1 li{
+        padding-bottom: 50px;
+    }
+    .video:hover{
+        border-radius: 20px;
+        width: 300px;
+    }
+    h4{
+        color:#D7D8DA;
+    }
+    h3{
+        color:#D7D8DA;
+    }
+    footer{
+        padding-top: 150px;
+        padding-left: 100px;
+        height: 100px;
+    }
+    h4:hover{
+        color: red;
+    }
+    .menu ul{
+        padding-top: 50px;
+    }
+    .pro {
+        float: right;
+    }
+    .profile{
+        width: 40px;
+        height: 40px;
+        border-radius: 50px;
+        float: left;
+        margin: 5px;
+    }
+    .proName {
+        padding-right: 20px;
+        float: left;
+    }
+    .size{
+        padding-left: 75px;
+    }
+    .input{
+        position: fixed;
+        height: 50px;
+        width: 350px;
+        background-color: #161c28be;
+        border: 0px;
+        color: rgb(255, 255, 255);
+    }
+    .pr{
+        float: left;
+        
+    }
+    .form1{
+        float: right;
+        padding: 10px;
+    }
+    .copy{
+        color: #D7D8DA;
+    }
+    .copy:hover{
+        color: red;
+    }
+    h6{width: 2000px;
+        color: #161c28f6;
+        background-color:#161c28f6; 
+    }
+    h1 {
+        color: #161c28f6;
+        background-color:#161c28f6;
+    }
+    .form2{
+        text-align: center;
+    }
+    h2{
+    width: 1000px;
+    }
+    }
+    
